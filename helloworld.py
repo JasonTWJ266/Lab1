@@ -1,2 +1,2 @@
-print("Hello World GitHub Sucks 123");
+print("Hello World GitHub Sucks ");
 
